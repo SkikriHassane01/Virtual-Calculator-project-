@@ -1,1 +1,3 @@
-# Virtual-Calculator-project-
+# Virtual Calculator project
+
+![alt text](virtualCalculator.gif)
